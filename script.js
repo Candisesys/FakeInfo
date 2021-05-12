@@ -14,6 +14,7 @@ let date = new Date();
 console.log(fakeName);
 console.log(rndNumber(1980, 1995));
 */
+// this is a change
 window.onload = () => {
     // Elements
     let info = document.getElementById("info");
